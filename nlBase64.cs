@@ -8,7 +8,7 @@ using System;
 using System.IO;
 using System.Text;
 
-namespace nlCryptoLatin
+namespace nlCoding
 {
 internal class nlBase64
 {
