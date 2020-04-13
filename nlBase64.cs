@@ -1,4 +1,4 @@
-﻿
+﻿ 
 // 使用前请将code.ini放置到%temp%\code.ini中
 // Code.ini得制作格式请参照项目里的code.ini(nlCryptoLatin使用的ini)
 
